@@ -1,1 +1,2 @@
 COMMIT A
+COMMIT B
