@@ -7,3 +7,4 @@ COMMIT F
 COMMIT G
 >>>>>>> fg
 COMMIT D
+COMMIT H
