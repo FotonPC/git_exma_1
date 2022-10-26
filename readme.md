@@ -8,3 +8,4 @@ COMMIT G
 >>>>>>> fg
 COMMIT D
 COMMIT H
+COMMIT I
