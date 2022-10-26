@@ -6,3 +6,4 @@ COMMIT F_2
 COMMIT G_3
 >>>>>>> fg
 COMMIT C_5
+COMMIT D_6
