@@ -1,0 +1,15 @@
+COMMIT A
+<<<<<<< HEAD
+COMMIT B
+COMMIT C
+=======
+COMMIT F
+COMMIT G
+>>>>>>> fg
+COMMIT D
+<<<<<<< HEAD
+COMMIT E
+=======
+COMMIT H
+COMMIT I
+>>>>>>> fecf8f0
