@@ -1,2 +1,8 @@
 COMMIT A_1
+<<<<<<< HEAD
 COMMIT B_4
+=======
+COMMIT F_2
+COMMIT G_3
+>>>>>>> fg
+COMMIT C_5
